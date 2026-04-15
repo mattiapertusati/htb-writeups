@@ -26,6 +26,9 @@ commands, and defensive perspective.
 ![Linux](https://img.shields.io/badge/Linux-3-blue)
 ![Easy](https://img.shields.io/badge/Easy-2-brightgreen)
 ![Very Easy](https://img.shields.io/badge/Very_Easy-1-green)
+![Machines](https://img.shields.io/badge/Machines_Pwned-5-9FEF00)
+![Linux](https://img.shields.io/badge/Linux-4-blue)
+![Windows](https://img.shields.io/badge/Windows-1-blue)
 
 ---
 
