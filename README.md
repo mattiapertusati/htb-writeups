@@ -15,6 +15,8 @@ commands, and defensive perspective.
 | [Cap](https://github.com/mattiapertusati/htb-cap) | Linux | Easy | IDOR, Linux Capabilities | ✅ |
 | [Vaccine](https://github.com/mattiapertusati/htb-vaccine) | Linux | Easy | FTP, SQLi, sudo privesc | ✅ |
 | [Fawn](https://github.com/mattiapertusati/htb-fawn) | Linux | Very Easy | FTP Anonymous Login | ✅ |
+| [Dancing](https://github.com/mattiapertusati/htb-dancing) | Windows | Easy | SMB Enumeration | ✅ |
+| [Redeemer]([link](https://github.com/mattiapertusati/htb-redeemer)) | Linux | Very Easy | Redis Misconfiguration | ✅ |
 
 ---
 
