@@ -17,6 +17,7 @@ commands, and defensive perspective.
 | [Fawn](https://github.com/mattiapertusati/htb-fawn) | Linux | Very Easy | FTP Anonymous Login | ✅ |
 | [Dancing](https://github.com/mattiapertusati/htb-dancing) | Windows | Easy | SMB Enumeration | ✅ |
 | [Redeemer](https://github.com/mattiapertusati/htb-redeemer) | Linux | Very Easy | Redis Misconfiguration | ✅ |
+| [Facts](link) | Linux | Easy | CVE-2025-2304, AWS S3, Facter | ✅ |
 
 ---
 
