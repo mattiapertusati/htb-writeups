@@ -18,6 +18,7 @@ commands, and defensive perspective.
 | [Dancing](https://github.com/mattiapertusati/htb-dancing) | Windows | Easy | SMB Enumeration | ✅ |
 | [Redeemer](https://github.com/mattiapertusati/htb-redeemer) | Linux | Very Easy | Redis Misconfiguration | ✅ |
 | [Facts](link) | Linux | Easy | CVE-2025-2304, AWS S3, Facter | ✅ |
+| [WingData](link) | Linux | Easy | Wing FTP RCE, CVE-2025-4517 | ✅ |
 
 ---
 
